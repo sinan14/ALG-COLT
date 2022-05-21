@@ -1,0 +1,5 @@
+1) Every parent node has atmost 2 children
+
+2) Every node to the left 👈 of a parent node is always less than less than (< )the parent
+
+3) Every node to the right 👉 of a parent node is always less than greater than ( > )the parent node
